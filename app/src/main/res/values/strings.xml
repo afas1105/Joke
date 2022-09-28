@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JokeMVP</string>
+    <string name="go_top">Go Top</string>
+    <string name="dropdown">Dropdown</string>
+    <string name="add_more_data">Add more data</string>
+    <string name="ok">OK</string>
+</resources>
